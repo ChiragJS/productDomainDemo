@@ -15,5 +15,4 @@ public class ProductDomainApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProductDomainApplication.class, args);
 	}
-
 }
